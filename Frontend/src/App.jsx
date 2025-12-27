@@ -2,7 +2,7 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import { Toaster } from "react-hot-toast";
 
-import Home from "./pages/Home"
+import Home from "./pages/home"
 import './App.css'
 import Success from "./pages/Success"
 import NotFound from "./pages/NotFound"
